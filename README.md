@@ -10,7 +10,7 @@
 - Create a split
 - Select a split
 - Create an expense
-- Check the balance
+- Check the split's balance
 
 ## Technologies used:
 
