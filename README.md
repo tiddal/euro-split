@@ -1,6 +1,6 @@
 # EuroSplit - Plan an event and split the expenses!
 
-### This project was developed for the college unit Object Oriented Programming.
+### This project was developed for the college unit Object Oriented Programming with a colleague.
 
 ### Grade: 10/10
 
@@ -32,5 +32,3 @@
 ## Side Notes:
 
 All the data is stored locally.
-
-I've worked on this project with a colleague.
